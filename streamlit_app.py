@@ -1,3 +1,5 @@
+import openai
+openai.api_key = "sk-Gm-7fUM-TkSdeJQAUNcYKLw7LE-_hT0Mrmq-4pAhjJT3BlbkFJ7dupKD-NLCbp2qV5m359wUCnHr3o9yUWI475eGQEwA"  
 
 import streamlit as st
 
